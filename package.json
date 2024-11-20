@@ -1,0 +1,16 @@
+{
+  "name": "between-dates",
+  "version": "1.0.0",
+  "description": "Get the number of days between 2 given dates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dates",
+    "between",
+    "days"
+  ],
+  "author": "Billy Nicart Jr",
+  "license": "ISC"
+}
